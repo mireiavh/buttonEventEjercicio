@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ButtonEvent</string>
+    <string name="text">Programacion Multimedia</string>
+    <string name="btn1">Boton 1</string>
+    <string name="btn2">Boton 2</string>
+    <string name="btn1Text">Boton 1 pulsado</string>
+    <string name="btn2Text">Boton 2 pulsado</string>
+</resources>
